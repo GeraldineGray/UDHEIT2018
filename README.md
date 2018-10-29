@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Workshop: Learning Analytics capacity within your VLE platforms
 
-You can use the [editor on GitHub](https://github.com/GeraldineGray/UDHEIT2018/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page includes two data files, and Python code that generates some analytics from those files. The code is a work in progress.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The two files are:
+1. Course_Activity_Obfuscated.csv , and activity file downloaded from Moodle and obfuscated
+2. Course_Grades_Obfuscated, a Moodle grade book with two additional grades added: end of term exam grade; and the overall grade for the course. 
 
-### Markdown
+AnalyseData.ipynb is written to run in the cloud on Googles colaborative library for AI: https://colab.research.google.com
+Running the code will upload selected files to the cloud. Alternatively, you can take the option to run it locally. This requires Anaconda to be installed on your machine.  Anaconda can be downloaded from https://www.anaconda.com/download.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GeraldineGray/UDHEIT2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
