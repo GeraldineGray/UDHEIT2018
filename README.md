@@ -23,3 +23,4 @@ When running AnalyseData.ipynb, you are asked for a few pieces of information:
 - The name of the grade file
 ```
 
+###### Thanks to developer, Mohammed Ibrahim, MSc student at TU DUblin.
