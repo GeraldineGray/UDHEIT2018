@@ -18,5 +18,7 @@ When running AnalyseData.ipynb, you are asked for a few pieces of information:
 - The name of the column that holds the final grade for the module
 - The code divides students into three groups based on overall grade. 
   You can congifure the boundary grades for the three groups (currently called A, B and C).
+- The name of the activity file
+- The name of the grade file
 ```
 
