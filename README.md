@@ -1,4 +1,4 @@
-## Workshop: Learning Analytics capacity within your VLE platforms
+## UDHEIT 2018 Workshop: Learning Analytics capacity within your VLE platforms
 
 The objective of this project is to give faculty feedback on how their Moodle page is being used, and if that usage offers meaningful indicators of student engagement. Above are two data samples files from Moodle (an activity log and grade book), and an early draft of Python code that generates analytics from these two files.
 
