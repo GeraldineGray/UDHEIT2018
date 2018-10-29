@@ -1,13 +1,14 @@
 ## Workshop: Learning Analytics capacity within your VLE platforms
 
-Above are two data files from Moodle, and Python code that generates some analytics from the two files (the code is a work in progress).
+The objective of this project is to give faculty feedback on how their Moodle page is being used, and if that usage offers meaningful indicators of student engagement. Above are two data samples files from Moodle (an activity log and grade book), and an early draft of Python code that generates analytics from these two files.
 
 The two files are:
-1. Course_Activity_Obfuscated.csv , an activity file downloaded from Moodle and obfuscated
+1. Course_Activity_Obfuscated.csv, an activity file downloaded from Moodle and obfuscated
 2. Course_Grades_Obfuscated.csv, a Moodle grade book with two additional grades added: end of term exam grade; and the overall grade for the course. 
 
 AnalyseData.ipynb is written to run in the cloud on Googles colaborative library for AI: https://colab.research.google.com
 Running the code will upload selected files to the cloud. Alternatively, you can take the option to run it locally. This requires Anaconda to be installed on your machine.  Anaconda can be downloaded from https://www.anaconda.com/download.
+
 
 When running AnalyseData.ipynb, you are asked for a few pieces of information:
 
